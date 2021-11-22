@@ -12,3 +12,6 @@ The algorithm of the code can be shown as:
 4. Write in the output file until read fails
 5. Close output and input files
 6. Termination
+
+i have used the following site fo the help with this code:
+https://quizlet.com/explanations/questions/we-described-a-program-that-copies-the-contents-of-one-file-396f8fb3-030e-41cb-8151-6296feee8cf8
